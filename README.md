@@ -1,11 +1,3 @@
-# FirstGUI
-Using tkinter to create a graphical user interface
-root = Tk() creates root window
-add title as well as size of gui
-make gui resizable using (0,0) 
-create labels as well as placing them on gui
-to place use: .grid, .place
-create entry boxes 
-user is allowed to type in entryboxes
-create buttons to have user interact on gui
-always end with root.mainloop()
+We are able to create a graphical user interface (GUI) with tkinter library. The user is able to interact through entry boxes
+and buttons. Customize GUI by using .configure (background, color, font, size, etc). Use .grid or .place to insert buttons and entryboxes
+in desired spot on GUI. 
